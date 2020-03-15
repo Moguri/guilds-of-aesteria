@@ -1,5 +1,5 @@
-History of Kingdom of Aesteria
-******************************
+History of the Kingdom of Aesteria
+**********************************
 
 Pre-1037
 ========
@@ -7,7 +7,7 @@ Pre-1037
 * Northern region were broken into multiple petty kingdoms
 * Sothern region more tribal and run by nobel houses
 * Tileri and Aesteria are two of the more powerful kingdoms in the north
-* "Balance of powers" kept region and power divided in the smaller kingdomsA
+* "Balance of powers" kept region and power divided in the smaller kingdoms
 
 1037 - 1039 (War of the Tileri Succession)
 ==========================================
@@ -32,7 +32,7 @@ Pre-1037
 
 * King of Aesteria dies in 1053 and his eldest son takes the crown
 * A succession war was avoided by the new king granting his brother title of the Prince of Tileri
-* Kingdom of Tileri consolidates and integrates
+* Kingdom of Aesteria consolidates and integrates
 
 1068 - 1075 (War of Southern Unification)
 =========================================
